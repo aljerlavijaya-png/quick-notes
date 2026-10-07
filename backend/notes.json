@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "title": "DSA Unit 3",
+    "content": "Study trees, graphs and sorting algorithms.",
+    "subject": "DSA",
+    "priority": "High",
+    "reminderAt": "",
+    "studyDuration": 30,
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "DBMS Assignment",
+    "content": "Complete normalization and transaction management notes.",
+    "subject": "DBMS",
+    "priority": "Medium",
+    "reminderAt": "",
+    "studyDuration": 25,
+    "completed": false
+  },
+  {
+    "id": 3,
+    "title": "Java OOP",
+    "content": "Revise inheritance, polymorphism and multithreading.",
+    "subject": "Java",
+    "priority": "Low",
+    "reminderAt": "",
+    "studyDuration": 20,
+    "completed": false
+  },
+  {
+    "id": 4,
+    "title": "python",
+    "content": "[practice coding"
+  },
+  {
+    "id": 5,
+    "title": "Reminder Test",
+    "content": "Test my QuickNotes reminder",
+    "subject": "Python",
+    "priority": "High",
+    "reminderAt": "2026-12-07T19:47",
+    "studyDuration": 1,
+    "completed": false
+  },
+  {
+    "id": 6,
+    "title": "remainderc",
+    "content": "maaake a  reminders",
+    "subject": "Project",
+    "priority": "High",
+    "reminderAt": "2026-10-07T19:55",
+    "studyDuration": 25,
+    "completed": false
+  },
+  {
+    "id": 7,
+    "title": "read",
+    "content": "reading",
+    "subject": "DSA",
+    "priority": "High",
+    "reminderAt": "2026-10-07T21:40",
+    "studyDuration": 25,
+    "completed": false
+  },
+  {
+    "id": 8,
+    "title": "dsa",
+    "content": "learn",
+    "subject": "Study",
+    "priority": "Medium",
+    "reminderAt": "2026-10-07T21:46",
+    "studyDuration": 25,
+    "completed": false
+  },
+  {
+    "id": 9,
+    "title": "dssssssa",
+    "content": "nfhf",
+    "subject": "Study",
+    "priority": "Medium",
+    "reminderAt": "2026-10-07T21:53",
+    "studyDuration": 25,
+    "completed": false
+  }
+]
